@@ -1,0 +1,26 @@
+
+
+// 1. memo
+// 2. useMemo
+// 3. useCallback
+// 4. lazy loading
+
+
+// 5. cleanup function
+// 6. abort controller
+
+// 7. profiler
+// 8. key
+
+// 9. custom hooks
+// 10.higher order components
+
+  controller clean profiler key custom HOC
+  
+
+  
+
+// memo / usememo  /useCallback / lazy loadding
+// cleanup  / abort controler
+// custom hook / hoc
+// profiler / key 

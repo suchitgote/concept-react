@@ -1,0 +1,2 @@
+what is web pack
+how build proccess work in react
